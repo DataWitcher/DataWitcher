@@ -1,4 +1,4 @@
-# Hi, I'm Abhishek 👋  
+# Hi, I'm Abhishek! 
 
 📊 **Business Intelligence / Data Analytics Enthusiast**  
 📍 India  
@@ -30,10 +30,6 @@ My focus is on turning raw data into **clear insights, KPIs, and decision-ready 
 - Learning Power Query & Power BI  
 - Building portfolio-ready analytics projects  
 
----
-
-## 📊 GitHub Stats
-[![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=DataWitcher)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## 🤝 Let’s Connect
