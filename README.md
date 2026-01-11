@@ -33,10 +33,7 @@ My focus is on turning raw data into **clear insights, KPIs, and decision-ready 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default&hide_border=true)
-
+[![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=DataWitcher)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## 🤝 Let’s Connect
