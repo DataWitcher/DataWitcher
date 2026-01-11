@@ -19,7 +19,7 @@ My focus is on turning raw data into **clear insights, KPIs, and decision-ready 
 ## 📁 Featured Projects
 - **Global Electronics Sales Dashboard (Excel)**  
   Interactive BI dashboard analyzing revenue, orders, AOV, and regional performance  
-  👉 [View Project Repository](https://github.com/DataWitcher/Projects.git))
+  👉 [View Project Repository](https://github.com/DataWitcher/Projects.git)
 
 *(More projects coming soon – SQL & Power BI)*
 
